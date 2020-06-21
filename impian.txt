@@ -1,3 +1,5 @@
 data impian:
 -saya ingin menjadi web development
 -saya ingin belajar html,css,javascript,php,mysql,codeigniter
+-saya ingin mejadi ui/ux website
+-saya ingin membuat e-commerce
